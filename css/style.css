@@ -160,7 +160,7 @@ section {
         "Lucida Sans", Arial, sans-serif;
 }
 
-button.add {
+.add {
     background-color: #007bff;
     align-self: center;
     color: #fff;
